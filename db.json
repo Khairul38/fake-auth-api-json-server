@@ -28,11 +28,11 @@
   "conversations": [
     {
       "id": 1,
-      "participants": "test@g.com.com-akash@learnwithsumit.com",
+      "participants": "test@g.com-akash@learnwithsumit.com",
       "users": [
         {
-          "email": "test@g.com.com",
-          "name": "Sumit Saha",
+          "email": "test@g.com",
+          "name": "Test",
           "id": 1
         },
         {
@@ -46,15 +46,15 @@
     },
     {
       "id": 2,
-      "participants": "test@g.com.com-saad@learnwithsumit.com",
+      "participants": "test@g.com-saad@learnwithsumit.com",
       "users": [
         {
-          "email": "test@g.com.com",
-          "name": "Sumit Saha",
+          "email": "test@g.com",
+          "name": "Test",
           "id": 1
         },
         {
-          "email": "akash@learnwithsumit.com",
+          "email": "saad@learnwithsumit.com",
           "name": "Saad Hasan",
           "id": 3
         }
@@ -68,8 +68,8 @@
       "id": 1,
       "conversationId": 1,
       "sender": {
-        "email": "test@g.com.com",
-        "name": "Sumit Saha",
+        "email": "test@g.com",
+        "name": "Test",
         "id": 1
       },
       "receiver": {
@@ -89,8 +89,24 @@
         "id": 2
       },
       "receiver": {
-        "email": "test@g.com.com",
-        "name": "Sumit Saha",
+        "email": "test@g.com",
+        "name": "Test",
+        "id": 1
+      },
+      "message": "How are you?",
+      "timestamp": 1661976143678
+    },
+    {
+      "id": 3,
+      "conversationId": 2,
+      "sender": {
+        "email": "saad@learnwithsumit.com",
+        "name": "Saad Hasan",
+        "id": 2
+      },
+      "receiver": {
+        "email": "test@g.com",
+        "name": "Test",
         "id": 1
       },
       "message": "How are you?",
