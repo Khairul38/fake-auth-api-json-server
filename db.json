@@ -244,11 +244,7 @@
       "teamName": "Dev",
       "teamColor": "#E91E63",
       "description": "Improve the performance of the website.",
-      "members": [
-        "test@g.com",
-        "test20@g.com",
-        "test5@g.com"
-      ],
+      "members": ["test@g.com", "test20@g.com", "test5@g.com"],
       "creator": {
         "email": "test@g.com",
         "name": "Test",
@@ -261,10 +257,7 @@
       "teamName": "Research",
       "teamColor": "#E91E63",
       "description": "Improve the performance of the website.",
-      "members": [
-        "test5@g.com",
-        "test@g.com"
-      ],
+      "members": ["test5@g.com", "test@g.com"],
       "creator": {
         "email": "test5@g.com",
         "name": "Test5",
@@ -277,10 +270,7 @@
       "teamName": "Marketing",
       "teamColor": "#9C27B0",
       "description": "Improve digital marketing area.",
-      "members": [
-        "test@g.com",
-        "test12@g.com"
-      ],
+      "members": ["test@g.com", "test12@g.com"],
       "creator": {
         "email": "test@g.com",
         "name": "Test",
@@ -293,9 +283,7 @@
       "teamName": "Design",
       "teamColor": "#FF9800",
       "description": "Design this webpage as soon as possible",
-      "members": [
-        "test@g.com"
-      ],
+      "members": ["test@g.com"],
       "creator": {
         "email": "test@g.com",
         "name": "Test",
@@ -311,9 +299,7 @@
         "teamName": "Design",
         "teamColor": "#FF9800",
         "description": "Design this webpage as soon as possible",
-        "members": [
-          "test@g.com"
-        ],
+        "members": ["test@g.com"],
         "creator": {
           "email": "test@g.com",
           "name": "Test",
@@ -337,10 +323,7 @@
         "teamName": "Marketing",
         "teamColor": "#9C27B0",
         "description": "Improve digital marketing area.",
-        "members": [
-          "test@g.com",
-          "test12@g.com"
-        ],
+        "members": ["test@g.com", "test12@g.com"],
         "creator": {
           "email": "test@g.com",
           "name": "Test",
@@ -364,10 +347,7 @@
         "teamName": "Research",
         "teamColor": "#E91E63",
         "description": "Improve the performance of the website.",
-        "members": [
-          "test5@g.com",
-          "test@g.com"
-        ],
+        "members": ["test5@g.com", "test@g.com"],
         "creator": {
           "email": "test5@g.com",
           "name": "Test5",
@@ -382,7 +362,7 @@
         "name": "Test",
         "id": 4
       },
-      "stage": "Ready",
+      "stage": "Done",
       "date": "2022-09-29T21:43:57.372Z",
       "id": 3
     },
@@ -391,11 +371,7 @@
         "teamName": "Dev",
         "teamColor": "#E91E63",
         "description": "Improve the performance of the website.",
-        "members": [
-          "test@g.com",
-          "test20@g.com",
-          "test5@g.com"
-        ],
+        "members": ["test@g.com", "test20@g.com", "test5@g.com"],
         "creator": {
           "email": "test@g.com",
           "name": "Test",
@@ -410,7 +386,7 @@
         "name": "Test",
         "id": 4
       },
-      "stage": "Doing",
+      "stage": "Review",
       "date": "2022-09-30T14:06:45.373Z",
       "id": 4
     },
@@ -419,10 +395,7 @@
         "teamName": "Research",
         "teamColor": "#E91E63",
         "description": "Improve the performance of the website.",
-        "members": [
-          "test5@g.com",
-          "test@g.com"
-        ],
+        "members": ["test5@g.com", "test@g.com"],
         "creator": {
           "email": "test5@g.com",
           "name": "Test5",
@@ -437,7 +410,7 @@
         "name": "Test",
         "id": 4
       },
-      "stage": "Backlog",
+      "stage": "Doing",
       "date": "2022-09-30T17:20:38.064Z",
       "id": 5
     },
@@ -446,9 +419,7 @@
         "teamName": "Design",
         "teamColor": "#FF9800",
         "description": "Design this webpage as soon as possible",
-        "members": [
-          "test@g.com"
-        ],
+        "members": ["test@g.com"],
         "creator": {
           "email": "test@g.com",
           "name": "Test",
@@ -463,7 +434,7 @@
         "name": "Test",
         "id": 4
       },
-      "stage": "Backlog",
+      "stage": "Doing",
       "date": "2022-09-30T17:39:38.767Z",
       "id": 6
     },
@@ -472,11 +443,7 @@
         "teamName": "Dev",
         "teamColor": "#E91E63",
         "description": "Improve the performance of the website.",
-        "members": [
-          "test@g.com",
-          "test20@g.com",
-          "test5@g.com"
-        ],
+        "members": ["test@g.com", "test20@g.com", "test5@g.com"],
         "creator": {
           "email": "test@g.com",
           "name": "Test",
@@ -494,6 +461,78 @@
       "stage": "Backlog",
       "date": "2022-09-30T18:51:53.118Z",
       "id": 7
+    },
+    {
+      "team": {
+        "teamName": "Marketing",
+        "teamColor": "#9C27B0",
+        "description": "Improve digital marketing area.",
+        "members": ["test@g.com", "test12@g.com"],
+        "creator": {
+          "email": "test@g.com",
+          "name": "Test",
+          "id": 4
+        },
+        "date": "2022-09-28T16:27:58.374Z",
+        "id": 4
+      },
+      "description": "Update marketing strategy",
+      "creator": {
+        "email": "test@g.com",
+        "name": "Test",
+        "id": 4
+      },
+      "stage": "Backlog",
+      "date": "2022-10-01T19:01:41.345Z",
+      "id": 8
+    },
+    {
+      "team": {
+        "teamName": "Design",
+        "teamColor": "#FF9800",
+        "description": "Design this webpage as soon as possible",
+        "members": ["test@g.com"],
+        "creator": {
+          "email": "test@g.com",
+          "name": "Test",
+          "id": 4
+        },
+        "date": "2022-09-28T16:51:32.206Z",
+        "id": 5
+      },
+      "description": "Clone udemy UI",
+      "creator": {
+        "email": "test@g.com",
+        "name": "Test",
+        "id": 4
+      },
+      "stage": "Backlog",
+      "date": "2022-10-01T19:12:08.050Z",
+      "id": 9
+    },
+    {
+      "team": {
+        "teamName": "Marketing",
+        "teamColor": "#9C27B0",
+        "description": "Improve digital marketing area.",
+        "members": ["test@g.com", "test12@g.com"],
+        "creator": {
+          "email": "test@g.com",
+          "name": "Test",
+          "id": 4
+        },
+        "date": "2022-09-28T16:27:58.374Z",
+        "id": 4
+      },
+      "description": "Complete market research.",
+      "creator": {
+        "email": "test@g.com",
+        "name": "Test",
+        "id": 4
+      },
+      "stage": "Ready",
+      "date": "2022-10-01T19:15:55.529Z",
+      "id": 10
     }
   ]
 }
