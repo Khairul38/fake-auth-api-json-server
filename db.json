@@ -617,13 +617,13 @@
           "title": "Module 2",
           "lessons": [
             {
-              "id": 1,
-              "title": "Lesson 1",
+              "id": 3,
+              "title": "Lesson 3",
               "videoLink": "https://www.youtube-nocookie.com/embed/dD9O8DnIBj4"
             },
             {
-              "id": 2,
-              "title": "Lesson 2",
+              "id": 4,
+              "title": "Lesson 4",
               "videoLink": "https://www.youtube-nocookie.com/embed/34tjWL9wi4g"
             }
           ]
