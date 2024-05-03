@@ -1230,5 +1230,19 @@
       "moduleId": 2,
       "videoLink": "https://www.youtube-nocookie.com/embed/34tjWL9wi4g"
     }
+  ],
+  "projects2": [
+    {
+      "projectName": "PMS",
+      "description": "Project Management System",
+      "members": ["test@g.com", "test20@g.com", "test5@g.com"],
+      "creator": {
+        "email": "test@g.com",
+        "name": "Test",
+        "id": 5
+      },
+      "date": "2022-09-28T06:24:55.531Z",
+      "id": 2
+    }
   ]
 }
