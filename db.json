@@ -1234,6 +1234,7 @@
   "projects2": [
     {
       "projectName": "PMS",
+      "projectColor": "#E91E63",
       "description": "Project Management System",
       "members": ["test@g.com", "test20@g.com", "test5@g.com"],
       "creator": {
